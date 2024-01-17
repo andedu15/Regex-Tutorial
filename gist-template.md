@@ -1,4 +1,4 @@
-# 17 Computer Science for JavaScript: Regex Tutorial
+# Computer Science for JavaScript: Regex Tutorial
 
 Matching an Email &ndash; `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
 Regex. There are some tricky concepts to understand, but regular expressions can do some pretty incredible things. Here we will look at a particular example that of matching an email using regular expression. Then we will move on to breaking down components of regular expressions. 
